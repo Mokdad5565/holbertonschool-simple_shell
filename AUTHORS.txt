@@ -1,3 +1,6 @@
 # AUTHORS
-Mohammad Mokdad
-Mokdad5565
+Mohammad Mokdad https://github.com/Mokdad5565/holbertonschool-simple_shell
+Github
+Mohammad Sabra
+Haidar Khalifeh
+

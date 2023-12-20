@@ -88,6 +88,9 @@ This shell was developed by filling a template by Mohammad Mokdad
 .BR sh (1),
 .BR dash (1).
 
+.SH BUGS
+No bugs so no need to put an email to report my bugs, Thanks
+
 .SH COPYRIGHT
 Copyright to chatgpt/github/people who did such manuals and maybe me
 
