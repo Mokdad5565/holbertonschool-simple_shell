@@ -1,7 +1,7 @@
 .TH SIMPLE_SHELL 1 "December 2023" "Simple Shell Manual"
 
 .SH NAME
-simple_shell \- a basic shell implementation by Mohammad Mokdad
+simple_shell \- a basic shell implementation by Haydar khalife
 
 .SH SYNOPSIS
 .B simple_shell
@@ -81,7 +81,7 @@ Create an alias \fBll\fR for \fBls -l\fR.
 exits with the exit status of the executed command or 0 if no command is provided.
 
 .SH AUTHORS
-This shell was developed by filling a template by Mohammad Mokdad
+This shell was developed by filling a template by haidar khalife
 
 .SH SEE ALSO
 .BR bash (1),

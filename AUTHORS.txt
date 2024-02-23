@@ -1,6 +1,8 @@
 # AUTHORS
-Mohammad Mokdad https://github.com/Mokdad5565/holbertonschool-simple_shell
-Github
-Mohammad Sabra
-Haidar Khalifeh
-
+Haydar Ali Khalife https://github.com/HaydarKhalife/holbertonschool-simple_shell
+Github repositories
+Doctors
+CS friends
+Hamdun RMA Sabra
+Chatgpt
+stack overflow (helped in nothing)
